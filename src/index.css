@@ -1,0 +1,369 @@
+*{
+
+    margin: 0px;
+    padding: 0px;
+    /* box-sizing: border-box; */
+
+}
+
+nav{
+    background-color: rgb(177, 200, 219);
+    max-width: 800px;
+    height: 100px;
+    margin:auto;
+display: flex;
+align-items: center;
+justify-content: space-between;
+}
+
+nav h1{
+
+font-size: 40px;
+/* background-color: green; */
+color: red;
+
+
+
+}
+
+nav input{
+    width: 250px;
+height: 40px;
+border-radius: 8px;
+font-size: 20px;
+
+
+
+}
+
+nav a{
+    font-size: 25px;
+    text-decoration: none;
+    background-color: red;
+    color: white;
+    padding: 8px;
+    border-radius: 8px;
+    margin: 0px 8px;
+}
+
+
+.home-content{
+    /* background-color: pink; */
+    max-width: 800px;
+    margin: auto;
+    padding: 15px;
+    
+
+}
+.movie{
+    text-decoration: none;
+    margin: 10px 0px;
+    padding: 10px;
+}
+
+.movie:hover{
+    text-decoration: none;
+    background-color: aqua;
+    box-shadow: 10px 10px 10px rgba(75, 71, 71, 0.22);
+    transition: 0.3s;
+    transform: scale(1.1);
+    border-radius: 10px;
+}
+#dis{
+   background-color: red; 
+   height: 30px;
+   width: 40px;
+}
+
+.movie button{
+    height: 25px;
+    width: 100px;
+    background-color: crimson;
+    color: white;
+    margin-left: 20px;
+border: solid crimson;
+border-radius: 10px;
+}
+
+#title{
+    color: red;
+}
+
+h1{
+    color: blue;
+
+}
+
+ .loader{
+    border-top:solid 5px crimson ;
+   border-right: solid 5px crimson;
+   width: 100px;
+height: 100px;
+border-radius: 50%;
+animation-name: loader; 
+animation-duration: 1s; 
+animation-iteration-count: infinite;
+animation-timing-function: linear;
+animation-delay: 1s;
+
+} 
+
+  @keyframes loader
+{
+    0%{
+        transform: rotate(0deg);
+
+    }
+
+100%{
+transform: rotate(360deg);
+
+
+}
+
+}  
+
+
+
+/* .loader{
+   
+   width: 20px;
+height: 2px;
+animation-name: loader; 
+animation-duration: 1s; 
+animation-iteration-count: infinite;
+animation-timing-function: linear;
+animation-delay: 2.1s;
+background-color: blue;
+
+} */
+
+/* @keyframes loader
+{
+    0%{
+       height: 2px;
+       width: 50px;
+       background-color: red;
+       
+    }
+
+100%{
+height: 2px;
+width: 800px;
+ background-color: blue; 
+}
+
+} */
+
+/* input{
+    
+    height: 30px;
+    margin-top: 20px;
+    border-radius: 5px;
+    border-color: blue;
+}
+
+#movie{
+    margin-top: 20px;
+    margin-left: 18px;
+}
+
+#hero{
+    margin-left: 35px;
+}
+#gener{
+    margin-left: 29px;
+}
+
+#director{
+    margin-left: 20px;
+}
+
+label{
+    
+    font-size: 20px;
+}
+
+#submit{
+    margin-top: 15px;
+    height: 35px;
+    width: 250px;
+    background-color: red;
+    color: white;
+    font-size: 20px;
+    border-radius: 10px;
+    border: 5px solid red;
+}
+
+#submit:hover{
+    margin-top: 15px;
+    height: 35px;
+    width: 280px;
+    background-color: rgb(18, 214, 18);
+    color: white;
+    font-size: 20px;
+    border-radius: 10px;
+    border: 5px solid rgb(18, 214, 18);
+}
+
+
+
+#addMovie{
+   
+    background-color: rgb(17, 177, 240);
+    background: linear-gradient(100deg , rgb(17, 177, 240),blue);
+    height: 250px;
+    width: 300px;
+    border-radius: 10px;
+    margin-top: 0px;
+}
+
+#addMovie:hover{
+    margin-top: 20px;
+    text-decoration: none;
+    background-color: yellow;
+    background: linear-gradient(90deg ,skyblue,aqua);
+    
+    box-shadow: 10px 10px 10px rgba(75, 71, 71, 0.22);
+    transition: 0.3s;
+    transform: scale(1.1);
+    border-radius: 10px;
+}
+
+.fulldetails{
+    font-size: 50px;
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+} */
+
+.movies-list a{
+    text-decoration: none;
+    color: black;
+}
+
+.add-movie form{
+    background-color: white;
+    border: solid 2px rgb(224,239,252);
+    width: 70%;
+    height: auto;
+    padding: 15px;
+    margin: 10px 150px;
+   
+}
+
+.add-movie form div{
+    display: grid;
+    grid-template-columns: 150px 300px;
+    row-gap: 10px;
+    align-items: center;
+
+}
+.add-movie form div label{
+    font-size: 23px;
+
+}
+
+.add-movie form div input{
+
+width: 400px;
+height: 45px;
+border-radius: 8px;
+border: solid 1px crimson;
+
+font-size: 20px;
+}
+
+
+.add-movie form div input:focus{
+border: solid 1px crimson;
+outline: solid 2px rgb(220, 20, 60,0.128);
+}
+
+.add-movie form input[type=submit]{
+background-color: red;
+width: 150px;
+height: 40px;
+color: white;
+font-size: 20px;
+font-weight: bold;
+padding: 5px 10px;
+border: solid 1px red;
+border-radius: 10px;
+margin-top: 20px;
+margin-left: 250px;
+}
+
+.add-movie form input[type=submit]:active{
+    background-color:green;
+    color: white;
+    border: none;
+    transition: 0.2s;
+ 
+}
+
+
+button{
+    margin-top: 20px;
+    background-color: red;
+    color: white;
+    height: 35px;
+    width: 180px;
+    font-size: 20px;
+    border: solid 5px red;
+    border-radius: 10px;
+    display: block;
+
+}
+a{
+    margin-top: px;
+    text-decoration: none;
+    color: white;
+   
+}
+
+.divan{
+
+    box-sizing: border-box;
+color: white;
+    align-items: center;
+    background-color: green;
+    
+    height: 25px;
+
+
+}
+
+
+#search{
+    margin-left: -8px;
+    margin-bottom: 22px;
+    border-radius: 0px;
+    width: 40px;
+    height: 40px;
+    background-color: rgb(177, 200, 219);
+    
+    border: rgb(177, 200, 219);
+    background-color: white;
+    border: solid black 1px;
+    border-radius: 10px;
+}
+#search1{
+    margin-left: -8px;
+    margin-bottom: 42px;
+    width: 40px;
+    height: 35px;
+    background-color:  rgb(177, 200, 219);
+}
+
+
+#notFound{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    color: red;
+    text-decoration: underline;
+}
+
+img{
+    height: 200px;
+    width:200px
+}

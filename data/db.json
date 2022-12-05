@@ -1,0 +1,167 @@
+{
+  "movieLists": [
+    {
+      "id": 1,
+      "moviename": "RRR",
+      "hero": "Ram Charan and N.T Rama Rao Jr.",
+      "heroine": " Alia Bhatt and Olivia Morris ",
+      "director": "S. S. Rajamouli",
+      "story": "A fearless revolutionary and an officer in the British force, who once shared a deep bond, decide to join forces and chart out an inspirational path of freedom against the despotic rulers.",
+      "gener": "Action,Adventure,Drama,Historical film,Historical drama",
+      "rating": "3.5star",
+      "language": "Hindi",
+      "releasedate": "24-March-2022",
+      "poster": "https://media2.bollywoodhungama.in/wp-content/uploads/2019/03/RRR-2022.jpeg",
+      "trailer": "https://youtu.be/GY4BgdUSpbE"
+    },
+    {
+      "id": 2,
+      "moviename": "Baahubali: The Beginning",
+      "hero": "Prabhas",
+      "heroine": "Anushkas Shetty",
+      "director": "S. S. Rajamouli",
+      "story": "In the kingdom of Mahishmati, while pursuing his love, Shivudu learns about the conflict ridden past of his family and his legacy. He must now prepare himself to face his newfound arch-enemy.",
+      "gener": "Action,Adventure,War,Romance,Fantasy,Drama,Historoical Fiction ",
+      "rating": "4star",
+      "language": "Hindi",
+      "releasedate": "10-July-2015",
+      "poster": "https://wallpapercave.com/wp/wp1851925.jpg"
+    },
+    {
+      "id": 3,
+      "moviename": "Baahubali 2: The Conclusion",
+      "hero": "Prabhas",
+      "heroine": "Anushkas Shetty",
+      "director": "S.S.Rajamouli ",
+      "story": "When Bhallaladeva conspires against his brother to become the king of Mahishmati, he has him killed by Katappa and imprisons his wife. Years later, his brother's son returns to avenge his father's death ",
+      "gener": "Action,Adventure,War,Romance,Fantasy,Drama,Historoical Fiction",
+      "rating": "4star",
+      "language": "Hindi",
+      "releasedate": "28-April-2017",
+      "poster": "https://stat2.bollywoodhungama.in/wp-content/uploads/2017/03/Bahubali-2-The-Conclusion.jpg"
+    },
+    {
+      "id": 4,
+      "moviename": "K.G.F: Chapter 1",
+      "hero": "Yash",
+      "heroine": "Srinidhi Shetty",
+      "director": "Prashanth Neel",
+      "story": " Rocky, a young man, seeks power and wealth in order to fulfil a promise to his dying mother. His quest takes him to Mumbai, where he becomes involved with the notorious gold mafia. ",
+      "gener": "Action,Romance,Thriller,Drama,Costume drama",
+      "rating": "3.5star",
+      "language": "Hindi",
+      "releasedate": "21-Dec-2018",
+      "poster": "https://wallpaperaccess.com/full/2365127.jpg "
+    },
+    {
+      "id": 5,
+      "moviename": "K.G.F: Chapter 2",
+      "hero": "Yash",
+      "heroine": "Srinidhi Shetty",
+      "director": "Prashanth Neel ",
+      "story": " The blood-soaked land of Kolar Gold Fields has a new overlord now, Rocky, whose name strikes fear in the heart of his foes. His allies look up to him as their Savior, the government sees him as a threat, and his enemies are clamouring for revenge.",
+      "gener": "Action,Thriller,Drama,Historical film,crime film,Historical drama",
+      "rating": "4Star",
+      "language": "Hindi",
+      "releasedate": "14-April-2022",
+      "poster": "https://www.bollywoodhungama.com/wp-content/uploads/2022/04/K.G.F-%E2%80%93-Chapter-2-15.jpg "
+    },
+    {
+      "id": 6,
+      "moviename": "PK",
+      "hero": "Aamir Khan",
+      "heroine": "Anushka Sharma",
+      "director": "Rajkumar Hirani ",
+      "story": " A stranger in the city asks questions no one has asked before. Known only by his initials, the man's innocent questions and childlike curiosity take him on a journey of love, laughter and letting go.",
+      "gener": "Comedy,Romance,Fantasy",
+      "rating": "4Star",
+      "language": "Hindi",
+      "releasedate": "19-Dec-2014",
+      "poster":"https://wallpapercave.com/wp/wp7388120.jpg"
+    },
+    {
+      "id": 7,
+      "moviename": "Ala Vaikunthapurramuloo",
+      "hero": "Allu Arjun",
+      "heroine": "Pooja Hegde",
+      "director": "Trivikram Srinivas",
+      "story": " Bantu grows up being constantly subjected to his father's scorn. However, when he learns of his real parentage, he decides to carve a place for himself within the family he truly belongs to.",
+      "gener": "Action,Drama",
+      "rating": "3.5star",
+      "language": "Telugu",
+      "releasedate": "12-Jan-2020",
+      "poster": " https://c8.alamy.com/comp/2B1N7HA/ala-vaikunthapurramuloo-indian-poster-in-telugu-and-english-from-left-allu-arjun-pooja-hegde-2020-bluesky-cinemas-courtesy-everett-collection-2B1N7HA.jpg"
+    },
+    {
+      "id": 8,
+      "moviename": "Ismart Shankar",
+      "hero": "Ram Pothineni",
+      "heroine": "Nabha Natesh,Nidhi Agerwal",
+      "director": "Puri Jagannadh",
+      "story": "Shankar, a contract killer, manages to escape after murdering a politician. Later, he helps the police find a murderer when an officer's memory is transferred to him. ",
+      "gener": "Action,Romance",
+      "rating": "3Star",
+      "language": "Telugu",
+      "releasedate": "18-July-2019",
+      "poster": " https://www.filmibeat.com/ph-big/2019/06/ismart-shankar_155990370020.jpg"
+    },
+    {
+      "id": 9,
+      "moviename": "Mr. Majnu",
+      "hero": "Akhil Akkineni",
+      "heroine": "Nidhhi Agerwal",
+      "director": "Venky Atluri",
+      "story": " A charming flirt who has never been in a serious relationship with anyone finds himself in unfamiliar territory when he finally falls in love with a woman.",
+      "gener": "Romance,Comedy",
+      "rating": "3Star",
+      "language": "Telugu",
+      "releasedate": "25-Jan-2019",
+      "poster": "https://www.filmibeat.com/img/popcorn/movie_posters/mrmajnu-20190115102200-17038.jpg"
+    },
+    {
+      "id": 10,
+      "moviename": "DJ: Duvvada Jagannadham",
+      "hero": " Allu Arjun",
+      "heroine": "Pooja Hegde",
+      "director": "Harish Shankar",
+      "story": "DJ, a rebellious man and a cook, gets trained to become an undercover officer and is assigned to take down a corrupt politician. Unexpectedly, he falls in love with the politician's daughter. ",
+      "gener": "Action,Comedy,Romance,Thriller",
+      "rating": "3star",
+      "language": "Telugu",
+      "poster": "https://files.prokerala.com/movies/pics/800/dj-movie-posters-70232.jpg ",
+      "releasedate": "23-June-2017"
+    },
+    {
+      "moviename": "my love story",
+      "hero": "shiva",
+      "director": "shivendra",
+      "gener": "romantic",
+      "id": 11
+    },
+    {
+      "moviename": "pichigadu",
+      "hero": "k.chandra sekhar",
+      "director": "shivendra",
+      "gener": "kamartial",
+      "id": 12
+    },
+    {
+      "moviename": "Kanchana2",
+      "hero": "Raghava Larence",
+      "director": "Raghava Larence",
+      "gener": "Horror",
+      "id": 14
+    },
+    {
+      "moviename": "aishu",
+      "hero": "avasram ledhu",
+      "director": "shiva",
+      "gener": "love story,comedy",
+      "rating": "5star",
+      "language": "Telugu",
+      "poster": " ",
+      "releasedate": "30-march-1996",
+      "id": 15
+    }
+  ]
+}
